@@ -23,7 +23,6 @@ This repository contains the complete MATLAB source code, output figures, and do
 
 ---
 
----
 
 ## Lab Sessions Summary
 
@@ -37,8 +36,6 @@ This repository contains the complete MATLAB source code, output figures, and do
 
 ---
 
----
-
 ## Topics Covered
 
 - Numerical errors: truncation error, round-off error, absolute and relative error
@@ -49,4 +46,4 @@ This repository contains the complete MATLAB source code, output figures, and do
 - Euler's method for ODEs
 - Engineering applications: plasticity models, pipe flow, structural dynamics
 
----
+-
