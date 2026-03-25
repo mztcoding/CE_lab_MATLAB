@@ -1,10 +1,3 @@
-%% =========================================================
-%  Lab Session 6 – Inverse Quadratic Interpolation (IQI)
-%  Problem 6.17 – Catenary Cable
-%  Find T_A such that y(50) = 15 m
-%  Parameters: w=10 N/m, y0=5 m, x=50 m, y_target=15 m
-%% =========================================================
-
 clc; clear; close all;
 
 %% ── Physical Parameters ──────────────────────────────────
